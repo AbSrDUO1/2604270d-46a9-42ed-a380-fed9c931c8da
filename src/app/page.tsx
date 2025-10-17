@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
 import HeroBillboard from '@/components/sections/hero/HeroBillboard';
@@ -50,9 +50,9 @@ export default function Home() {
         <div className="mx-auto px-4 md:px-6">
           <FeatureCardTwo
             features={[
-              { title: "Margherita", description: "Classic margherita pizza with fresh basil and mozzarella.", icon: "Pizza" },
-              { title: "Pepperoni", description: "Spicy pepperoni with a blend of cheeses.", icon: "Pizza" },
-              { title: "Vegetarian", description: "Loaded with seasonal veggies and cheese.", icon: "Pizza" }
+              { title: "Margherita", description: "Classic margherita pizza with fresh basil and mozzarella.", icon: Pizza },
+              { title: "Pepperoni", description: "Spicy pepperoni with a blend of cheeses.", icon: Pizza },
+              { title: "Vegetarian", description: "Loaded with seasonal veggies and cheese.", icon: Pizza }
             ]}
           />
         </div>
