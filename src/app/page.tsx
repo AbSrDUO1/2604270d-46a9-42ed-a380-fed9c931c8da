@@ -6,6 +6,7 @@ import TextAbout from '@/components/sections/about/TextAbout';
 import FeatureCardTwo from '@/components/sections/feature/FeatureCardTwo';
 import ContactCenter from '@/components/sections/contact/ContactCenter';
 import FooterBase from '@/components/sections/footer/FooterBase';
+import { Pizza } from 'lucide-react';
 
 const assetMap = [{"id":"hero-image","url":"https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/pizzeria-restaurant-1760705620400-d6bb9ce4.jpg","alt":"pizzeria restaurant"},{"id":"about-image","url":"https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/pizzeria-interior-1760705627829-a4cf9749.jpg","alt":"pizzeria interior"},{"id":"menu-item-1","url":"https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/margherita-pizza-1760705631311-f7e1c85c.jpg","alt":"margherita pizza"},{"id":"menu-item-2","url":"https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/pepperoni-pizza-1760705634870-dbd5394a.jpg","alt":"pepperoni pizza"},{"id":"menu-item-3","url":"https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/vegetarian-pizza-1760705644299-ffd52589.jpg","alt":"vegetarian pizza"}];
 
